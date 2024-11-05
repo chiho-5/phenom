@@ -1,0 +1,80 @@
+{
+    "Contact" :"Contact",
+    "Policy": "Policy",
+    "sectionsContact" : [
+      {
+        "Tell":  "Tell Us Everything",
+        "question": "Do you have any question? Feel free to reach out."
+      }
+    ],
+    "PolicyContent" :
+      {
+        "a":  "Application Security",
+        "b":  "Software Principles",
+        "c":  "Support Center",
+        "d":  "Tell Us Everything",
+        "e": "Customer Support"
+      }
+    ,
+    "use" : "company",
+    "Usefeul" : 
+      {
+        "a":  "Home",
+        "b":  "Mission",
+        "c":  "About",
+        "d":  "Product",
+        "e":  "Contact"
+      }
+    ,
+    
+      "title": "PHENOM: stand out above all",
+      "text": "The innovative solution that equips users to navigate the complexities of the Digital age confidently.",
+      "button": [
+          {
+          "title": "Reach out"
+          },
+          {
+          "title": "Coming soon",
+          "color": "#fff"
+          }
+    ],
+
+
+    "titleAbout": "We are phenomenal",
+    "textAbout": "We are providing the innovation for evolving landscape of fincance and technology.",
+    "section": [
+      {
+        "title": "Why Phenom ?",
+        "content": "Finance is hard, we get it; but it doesn't have to be. Board with Phenom to get that smooth scaling you deserve",
+        "icon": "notes.svg"
+      },
+      {
+        "title": "Why Phenom ?",
+        "content": "Finance is hard, we get it; but it doesn't have to be. Board with Phenom to get that smooth scaling you deserve",
+        "icon": "notes.svg"
+      }
+    
+  
+    ],
+
+    
+      "titleRocket": "Boost your creativity",
+      "textRocket": "Phenom embodies the spirit of talent and innovation, encouraging users to rise above the noise and make their mark.",
+  
+      "titleMidel": "PHENOM STANDS TALL",
+      "textMidel": "The most innovative financial solution yet to be unvieled. Get ready for what's coming to your device",
+      "buttonMidel": "Coming soon",
+
+    "contactForm": "Contact Us",
+    "pContact": "To book a slot for what's coming and the innovation we are providing, please contact us via our social handlers.",
+
+    "Footer": "All © 2023 Copyright: Developed with By " ,
+    "abdel" : "Ould Hennia Abdelkader",
+
+    "ny" : "New York, NY 10012, US",
+    "em" : "Landy@gmail.com",
+    "ph" : " + 01 234 567 88",
+    "prod" : "Product",
+    "con" : "Contact"
+
+}
