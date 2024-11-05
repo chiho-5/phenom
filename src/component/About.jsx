@@ -25,14 +25,14 @@ const About = () => {
                 <p>{t("textAbout")} </p>
                 
                 <div class='row'>
-                {about.section.map((iem, index)=>(
+            {/*    {about.section.map((iem, index)=>(
                     <div  key={index} class='col-6'> 
                         <img width="60px" height="60px"  src={note} />
                         <div style={{ fontSize: "12px" }} > {t("title")} </div>
                         <div style={{ fontSize: "11px" }} > {t("content")} </div>
                         
                     </div>
-                ))} 
+                ))} */}
                 </div>
             </div>
         </div>
