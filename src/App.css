@@ -12,6 +12,7 @@ body{
 }
 p{
   font-size: 21px;
+  text-align: center;
 }
 .Img{
   max-width: 300px;
@@ -19,6 +20,7 @@ p{
 @media(min-width:991px){
   h6{
     font-size: 56px;
+    text-align: center;
   }
 }
 
@@ -32,6 +34,7 @@ p{
   }
   h6{
     font-size: 47px;
+    text-align: center;
   }   
   /* .middl, .about, .rocket{
     margin: 150px auto;
@@ -140,6 +143,7 @@ button:hover{
   }
   h6{
     font-size: 32px;
+    text-align: center;
   }   
   .menu-icon {
     display: block;
