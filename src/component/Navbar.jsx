@@ -15,10 +15,10 @@ const Navbar = () => {
         <div class="logo fs-4">
             PHENOM
         </div>
-        <div class="menu-icon" onClick={handleShowNavbar}>
+{/*         <div class="menu-icon" onClick={handleShowNavbar}>
           <i class="fa-solid fa-bars d-sm-none"></i>
-        </div>
-        <div class={`nav-elements ${showNavbar && 'active'}`}>
+        </div> */}
+{/*         <div class={`nav-elements ${showNavbar && 'active'}`}>
           <ul>
             <li>
               <a href='#'>Home</a>
@@ -27,7 +27,7 @@ const Navbar = () => {
               <a href='#'>Contact</a>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
     </nav>
   )
