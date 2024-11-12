@@ -24,7 +24,7 @@ const HeadBlock = () => {
       <p>{t("text")}</p>
       <div className="d-flex justify-content-center mt-3">
           <a href='https://chat.whatsapp.com/E1hNLKxhucc9SR0Sv7ecoe'>
-        <button className="BTN">Contact Us</button>
+        <button class="BTN">Contact Us</button>
               </a>
 {/*         <button style={{ color: "rgb(46, 24, 106)" }} className="BTN bg-white ms-2">Coming Soon</button> */}
       </div>
