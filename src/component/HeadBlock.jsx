@@ -23,8 +23,10 @@ const HeadBlock = () => {
       <h6>{t("title")}</h6>
       <p>{t("text")}</p>
       <div className="d-flex justify-content-center mt-3">
-        <button className="BTN">Reach out</button>
-        <button style={{ color: "rgb(46, 24, 106)" }} className="BTN bg-white ms-2">Coming Soon</button>
+          <a href='https://chat.whatsapp.com/E1hNLKxhucc9SR0Sv7ecoe'>
+        <button className="BTN">Contact Us</button>
+              </a>
+{/*         <button style={{ color: "rgb(46, 24, 106)" }} className="BTN bg-white ms-2">Coming Soon</button> */}
       </div>
     </div>
     <div className="d-flex justify-content-center align-items-center col-md-6">
